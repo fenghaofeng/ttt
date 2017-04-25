@@ -1,1 +1,2 @@
 这是master分支的6.txt内容
+master分支在6.txt新增了这些内容
