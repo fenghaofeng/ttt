@@ -1,1 +1,3 @@
 这是master分支的6.txt内容
+
+branch001在6.txt新增了内容
