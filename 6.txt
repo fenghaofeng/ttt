@@ -1,2 +1,7 @@
 这是master分支的6.txt内容
+<<<<<<< HEAD
 master分支在6.txt新增了这些内容
+=======
+
+branch001在6.txt新增了内容
+>>>>>>> branch001
